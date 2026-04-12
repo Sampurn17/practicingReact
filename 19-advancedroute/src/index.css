@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+h1{
+    font-size:100px;
+    position: absolute;
+    top: 43%;
+    left: 15%;
+    transform: (-50%,-50%);
+    text-decoration: underline;
+    font-weight: 600;
+    white-space: nowrap;
+    text-align: center;
+}
